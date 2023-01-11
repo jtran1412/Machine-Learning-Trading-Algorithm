@@ -6,7 +6,7 @@ Both models uses a short and long window Simple Moving Average (SMA) to generate
 ## Result
 The SVC classifier model beat the buy and hold strategy in a 6 year time period. The LogisticRegression classifier model did not beat the buy and hold strategy in a 6 year time period, but it did beat it in a 5 year period.
 ## Possible future work
-I had more time, I would try to use other machine learning classifiers such as:
+I had more time, I would try to use other machine learning classifiers such as:<br>
 -k-Nearest Neighbors (k-NN)<br>
 -Decision Trees<br>
 -Neural networks<br>
